@@ -21,15 +21,13 @@ The main objectives of this research project are:
 3. To assess the environmental and health impacts of pesticide use.
 
 
-
 ## Methodology
-
 
 The methodology for Pesticides Estimation using Remote Sensing and GIS involves the following steps:
 
-1. Data Collection: Collect all the relevant data related to Pesticides Estimation such as crop type, land use, vegetation indices, soil characteristics, etc. from multiple sources such as satellite imagery, aerial photography, and field surveys.
+1. Data Collection: Collect all the relevant data related to pesticide estimation such as crop type, land use, vegetation indices, soil characteristics, etc. from multiple sources such as satellite imagery, aerial photography, and field surveys.
 
-2. Data Pre-processing: Pre-process the collected data to make it ready for the analysis. This includes the removal of noise, missing values, and other irrelevant information.
+2. Data Pre-processing: Pre-process the collected data to make it ready for analysis. This includes the removal of noise, missing values, and other irrelevant information.
 
 3. Data Processing: Use digital image processing techniques to extract relevant information from the pre-processed data. This includes the calculation of vegetation indices, spectral indices, and other indices to identify and quantify pesticide levels.
 
@@ -79,9 +77,6 @@ The methodology for Pesticides Estimation using Remote Sensing and GIS involves 
 
 
 OR 
-
-
-
 
 1. Collect high-resolution satellite imagery of the area of interest, including multispectral, hyperspectral, and radar data.
 
