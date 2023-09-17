@@ -1,9 +1,8 @@
-# Pesticides-Estimation-and-monitoring-using-Remote-Sensing
-
+# Pesticides-Estimation-and-monitoring-using-Remote-Sensing, GIS and Hyperspectral Imaging
 
 ## Research Proposal: 
 
-Pesticides Estimation and Monitoring using Remote Sensing and GIS
+This research project focuses on advancing agricultural sustainability and environmental protection through the innovative use of remote sensing technology, Geographic Information Systems (GIS), and hyperspectral imaging. The primary goal is to develop a comprehensive system for estimating and monitoring pesticide use in agricultural landscapes. By leveraging remote sensing data and hyperspectral imagery, this project aims to provide accurate and real-time insights into the application of pesticides, enabling farmers, policymakers, and environmentalists to make informed decisions. The integration of GIS will facilitate spatial analysis and mapping, enhancing the visualization of pesticide distribution. This research addresses the critical need for sustainable farming practices and the reduction of pesticide-related environmental impacts, positioning remote sensing, GIS, and hyperspectral imaging as valuable tools for modern agriculture and environmental management.
 
 
 ## Introduction:
@@ -11,7 +10,7 @@ Pesticides Estimation and Monitoring using Remote Sensing and GIS
 Pesticides are used in agricultural production to reduce crop losses due to pests, weeds and diseases. However, improper use of pesticides can have adverse environmental and health effects. Remote sensing and GIS provide a cost-effective way of estimating pesticide use on a large scale. This research proposal seeks to develop a method for estimating pesticide use using remote sensing and GIS. 
 
 
-## Objectives:
+## Objective:
 
 The main objectives of this research project are:
 
